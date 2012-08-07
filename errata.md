@@ -1,4 +1,4 @@
----
+﻿---
 layout: master
 title: 勘误表
 stylesheets: [ "/html/inc/errata.css" ]
@@ -17,7 +17,7 @@ javascripts: [ "/javascripts/jquery.js", "html/inc/click_more.js" ]
     * 您的修改可以通过 Github 的 Pull Request 工具通知我。
     * 还可以直接通过 [新浪微博](http://weibo.com/gotgit/) @群英汇蒋鑫。
 
-## 第一版• 第三印
+## 第一版• 第三 印
 
 ### 勘误
 
